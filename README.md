@@ -4,7 +4,7 @@
 ----
 ### Description: 
 * BD9A400MUV is a synchronous buck switching regulator with built-in low on-resistance power MOSFETs. 
-* It is capable of providing current up to 4A.The SLLM control provides excellent efficiency characteristics in light-load conditions which make the product ideal for 
+* It is capable of providing current up to 4A.The SLLM (TM) control provides excellent efficiency characteristics in light-load conditions which make the product ideal for 
 equipment and devices that demand minimal standby power consumption. 
 * The oscillating frequency is high at 1MHz using a small value of inductance. 
 * It is a current mode control DC/DC converter and features high-speed transient response. 
